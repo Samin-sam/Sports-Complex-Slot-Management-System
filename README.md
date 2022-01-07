@@ -1,2 +1,2 @@
-# Sports-Complex-System-C-
-Sports management system of a organization.
+# Sports_Complex_Slot_Management_System
+This is my c# slot management project
